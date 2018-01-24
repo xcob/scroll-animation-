@@ -1,0 +1,92 @@
+body {
+  margin-top: 0px;
+  font-family: 'Poppins';
+}
+
+
+.navbar{
+  background: #fff;
+  margin-bottom: 40px;
+
+
+}
+
+.navbar-brand{
+  font-family: 'Open Sans Condensed';
+  font-size: 20px;
+  color: #000;
+  letter-spacing: 2px;
+  font-size: 30px;
+
+}
+
+.nav-link {
+  color: #ddd;
+
+}
+
+
+#showcase h1{
+  font-family: 'Roboto';
+
+}
+
+#showcase img{
+
+}
+
+#testimonials {
+  background: #f1f1f1;
+  padding: 50px 0px 30px 0px;
+  text-align: center;
+  margin-top: 40px;
+
+
+}
+
+#testimonials p{
+  font-family: Raleway;
+  font-size: 28px;
+
+}
+
+#testimonials p.customer{
+  font-size: 18px;
+  color: #666;
+
+
+}
+
+#info1 .btn{
+  color: #8533CE;
+}
+
+#info1 .info-right {
+  margin-top: 100px;
+  margin-left: 100px;
+
+}
+
+#info1 .info-left {
+  margin-top: 45px;
+}
+
+/* this is where i got distracted and made a hover effect */
+#info1 .info-left img:hover{
+  opacity: 0.80;
+}
+
+
+#info1 .container{
+  padding: 30px 0px 30px 0px;
+
+}
+
+#info2 {
+  margin: 50px 0px 30px 0px;
+}
+
+footer {
+  padding: 40px;
+
+}
